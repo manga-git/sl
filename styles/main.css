@@ -1,0 +1,48 @@
+.legalpad{
+	background: url(../images/legalPad.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: scroll;	
+	vertical-align: top;
+	position: absolute;
+	width: 700px;	
+	margin: auto;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.heading{
+	font-family: cursive;
+	font-style: oblique;
+	font-weight: bold;
+	font-size: x-large;
+	padding-top: 10px;
+	text-align: center;
+	color: wheat;
+}
+form{
+	margin-top: 50px;
+	margin-left: 120px;
+}
+label{
+	display: inline-block;
+  	line-height: 1.8;
+  	vertical-align: top;
+}
+fieldset li {
+  	list-style: none;
+  	padding: 5px;
+  	margin: 0;
+}
+*{
+	outline: red 1px solid;
+}
+
+
+
+
+
+
+
+
